@@ -19,5 +19,6 @@ images for inventory attached
 You will need an additional script to spawn the prop or else you can use a map editor 
 Contact by discord: https://discord.gg/DXe7vZwN2A
 
-
 If you want to use this in one of youre scripts please make a attribution
+
+![base firewood](https://github.com/user-attachments/assets/b003e719-4582-450d-8eb2-a9ef0ed22a1d)
